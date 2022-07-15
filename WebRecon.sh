@@ -1,7 +1,7 @@
 #!/bin/bash
 if [[ $1 = ""||$2 = "" ]]; then
-echo "WebRecon by:Alt3r3ad1"
-echo "Method for use: ./webrecon.sh 'target.com' 'wordlist.txt'"
+echo "Web_Recon by:Alt3r3ad1"
+echo "Method for use: ./WebRecon.sh 'target.com' 'wordlist.txt'"
 echo "Scanned files: .txt, .pdf, .php, .aspx, .js, .xml (include sitemap and robots)"
 else
 
